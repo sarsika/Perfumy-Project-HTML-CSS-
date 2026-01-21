@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfumy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <nav>
+            <h1>Perfumy</h1>
+            <ul>
+                <li>Home</li>
+                <li>Products</li>
+                <li>About As</li>
+                <li>Contact As</li>
+            </ul>
+        </nav>
+    </div>
+    <div class="searchbar">
+        <input placeholder="Serach">
+    </div>
+    <div class="Products">
+        <div class="box">
+            <img src="c:\Users\nirosh\Downloads\perfume 1.jpg ">
+            <p>This perfume offers a bold and long-lasting fragrance.It is perfect for evening wear and special occasions.The scent gives a feeling of confidence and elegance.Made with premium ingredients for a rich experience.</p>
+        </div>
+        <div class="box">
+            <img src="c:\Users\nirosh\Downloads\perfume 2.jpg">
+            <p>This perfume has a fresh and pleasant fragrance.It is suitable for daily use and casual outings.The scent feels light, smooth, and refreshing.Designed to keep you feeling fresh all day long.</p>
+        </div>
+        <div class="box">
+            <img src="c:\Users\nirosh\Downloads\perfume 3.jpg">
+            <p>This perfume delivers a warm and attractive aroma.It is ideal for both day and night use.The fragrance creates a calm and relaxing mood.Crafted carefully to leave a lasting impression.</p>
+        </div>
+    </div>
+    <div class="about">
+        <h1 style="text-align: center";>About us</h1>
+        <p>We are a perfume brand committed to creating high-quality fragrances that reflect elegance, confidence, and individuality. Our perfumes are carefully crafted using premium ingredients to ensure long-lasting and refreshing scents. Each fragrance is designed to suit different moods, personalities, and occasions, making every moment special. We focus on maintaining quality, affordability, and customer satisfaction in every product we offer. Our goal is to provide unique and memorable fragrances that leave a lasting impression. With a passion for innovation and excellence, we continuously strive to improve our designs and deliver perfumes that inspire confidence and style in everyday life.
+        </p>
+    </div>
+    <div class="contact">
+        <h4>Contact</h4>
+        <p>+91 1234567890</p>
+        <p>Perfumy@gmail.com</p>
+        <p style="margin-top: 30px;font-size:10px;">You can contact us for any queries, feedback, or support related to our products and services. We are always happy to assist our customers and provide timely responses to all inquiries.Feel free to reach us through phone or email at any time.Your satisfaction is important to us, and we look forward to hearing from you.</p>
+    </div>
+</body>
+</html>
